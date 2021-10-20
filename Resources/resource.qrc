@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>translate.png</file>
+    <file>search.png</file>
+    <file>plus.png</file>
+    <file>cancel.png</file>
+    <file>user.png</file>
+    <file>refresh.png</file>
+    <file>login.svg</file>
+    <file>settings.png</file>
+    <file>back.png</file>
+    <file>save.svg</file>
+    <file>Logo.png</file>
+  </qresource>
+</RCC>
