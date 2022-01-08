@@ -105,7 +105,6 @@ def translate(selectedLanguage, name):
     else:
         translator = google_translator()
         prs = pptx.Presentation(name.text())
-        cur_txt = []
 
         for slide in prs.slides:
             for shape in slide.shapes:
